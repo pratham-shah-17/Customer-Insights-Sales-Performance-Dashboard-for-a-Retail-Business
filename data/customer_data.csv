@@ -1,0 +1,794 @@
+Customer ID,Name,Gender,Age,City,Region,Registration Date
+CG-12520,Claire Gute,Male,29,Henderson,South,2014-06-06
+DV-13045,Darrin Van Huff,Male,48,Los Angeles,West,2015-02-10
+SO-20335,Sean O'Donnell,Female,64,Fort Lauderdale,South,2013-11-19
+BH-11710,Brosina Hoffman,Male,53,Los Angeles,West,2013-06-01
+AA-10480,Andrew Allen,Female,36,Concord,South,2013-07-02
+IM-15070,Irene Maddox,Female,37,Seattle,West,2014-01-10
+HP-14815,Harold Pawlan,Female,21,Fort Worth,Central,2014-02-07
+PK-19075,Pete Kriz,Male,36,Madison,Central,2013-06-24
+AG-10270,Alejandro Grove,Female,40,West Jordan,West,2012-09-28
+ZD-21925,Zuschuss Donatelli,Male,41,San Francisco,West,2013-11-27
+KB-16585,Ken Black,Female,45,Fremont,Central,2014-02-13
+SF-20065,Sandra Flanagan,Female,37,Philadelphia,East,2014-02-26
+EB-13870,Emily Burns,Female,18,Orem,West,2013-04-25
+EH-13945,Eric Hoffmann,Male,58,Los Angeles,West,2013-06-28
+TB-21520,Tracy Blumstein,Male,56,Philadelphia,East,2014-08-14
+MA-17560,Matt Abelman,Female,64,Houston,Central,2012-12-25
+GH-14485,Gene Hale,Female,46,Richardson,Central,2015-05-26
+SN-20710,Steve Nguyen,Female,18,Houston,Central,2012-12-16
+LC-16930,Linda Cazamias,Female,53,Naperville,Central,2012-10-23
+RA-19885,Ruben Ausman,Female,46,Los Angeles,West,2013-07-01
+ES-14080,Erin Smith,Male,30,Melbourne,South,2013-09-30
+ON-18715,Odella Nelson,Female,23,Eagan,Central,2014-01-10
+PO-18865,Patrick O'Donnell,Male,29,Westland,Central,2014-02-07
+LH-16900,Lena Hernandez,Male,45,Dover,East,2013-02-15
+DP-13000,Darren Powers,Female,51,New Albany,Central,2012-01-30
+JM-15265,Janet Molinari,Female,55,New York City,East,2013-07-13
+TB-21055,Ted Butterfield,Male,33,Troy,East,2016-01-05
+KM-16720,Kunst Miller,Female,39,Los Angeles,West,2014-01-27
+PS-18970,Paul Stevenson,Male,29,Chicago,Central,2013-12-08
+BS-11590,Brendan Sweed,Female,28,Gilbert,West,2012-06-17
+KD-16270,Karen Daniels,Female,30,Springfield,South,2013-07-08
+HM-14980,Henry MacAllister,Female,43,New York City,East,2015-08-29
+JE-15745,Joel Eaton,Female,43,Memphis,South,2013-04-26
+KB-16600,Ken Brennan,Female,64,Houston,Central,2013-05-26
+SC-20770,Stewart Carmichael,Male,45,Decatur,South,2014-09-23
+DN-13690,Duane Noonan,Male,42,San Francisco,West,2014-05-18
+JC-16105,Julie Creighton,Female,47,Durham,South,2013-01-03
+CS-12400,Christopher Schild,Female,30,Chicago,Central,2014-07-23
+PG-18895,Paul Gonzalez,Female,65,Rochester,Central,2012-09-11
+GM-14455,Gary Mitchum,Female,54,Houston,Central,2012-08-16
+JS-15685,Jim Sink,Female,47,Los Angeles,West,2014-11-07
+KB-16315,Karl Braun,Male,48,Minneapolis,Central,2013-08-31
+RB-19705,Roger Barcio,Male,39,Portland,West,2015-01-15
+PN-18775,Parhena Norris,Male,32,New York City,East,2014-06-27
+KD-16345,Katherine Ducich,Female,32,San Francisco,West,2013-06-19
+ER-13855,Elpida Rittenbach,Male,37,Saint Paul,Central,2014-01-14
+RB-19465,Rick Bensley,Female,32,Chicago,Central,2013-02-04
+GZ-14470,Gary Zandusky,Male,33,Rochester,Central,2013-03-22
+LC-16870,Lena Cacioppo,Female,47,Aurora,West,2013-09-17
+JM-15250,Janet Martin,Male,43,Charlotte,South,2015-02-08
+PA-19060,Pete Armstrong,Female,38,Orland Park,Central,2013-09-05
+CV-12805,Cynthia Voltz,Female,42,New York City,East,2015-03-22
+CL-12565,Clay Ludtke,Male,43,Urbandale,Central,2012-04-02
+RC-19960,Ryan Crowe,Female,28,Columbus,East,2013-11-22
+DK-13090,Dave Kipp,Female,33,Seattle,West,2014-04-13
+GG-14650,Greg Guthrie,Male,54,Bristol,South,2013-01-30
+SC-20725,Steven Cartwright,Female,32,Wilmington,East,2012-09-03
+AD-10180,Alan Dominguez,Male,44,Houston,Central,2014-04-17
+PF-19165,Philip Fox,Male,45,Bloomington,Central,2013-07-15
+TS-21610,Troy Staebel,Female,37,Phoenix,West,2013-02-22
+LS-16975,Lindsay Shagiari,Male,30,Los Angeles,West,2012-12-20
+DW-13585,Dorothy Wardle,Female,50,Columbus,East,2013-01-21
+LC-16885,Lena Creighton,Female,38,Roseville,West,2012-12-09
+JD-15895,Jonathan Doherty,Male,32,Philadelphia,East,2013-01-06
+SH-19975,Sally Hughsby,Female,54,San Francisco,West,2013-11-30
+SG-20080,Sandra Glassco,Female,27,Independence,Central,2014-01-16
+HA-14920,Helen Andreada,Female,23,Pasadena,West,2013-11-12
+MG-17680,Maureen Gastineau,Female,46,Newark,East,2013-06-27
+JE-16165,Justin Ellison,Female,25,Franklin,Central,2016-07-30
+TW-21025,Tamara Willingham,Female,59,Scottsdale,West,2014-04-29
+SP-20650,Stephanie Phelps,Female,52,San Jose,West,2012-08-08
+NK-18490,Neil Knudson,Female,59,Seattle,West,2014-03-05
+DB-13060,Dave Brooks,Female,47,Seattle,West,2013-02-27
+NP-18670,Nora Paige,Male,34,Edmond,Central,2014-08-19
+TT-21070,Ted Trevino,Female,53,Los Angeles,West,2013-03-17
+EM-13960,Eric Murdock,Male,31,Philadelphia,East,2014-04-16
+RD-19900,Ruben Dartt,Female,49,Carlsbad,West,2014-02-02
+MJ-17740,Max Jones,Female,56,Seattle,West,2014-01-26
+BM-11140,Becky Martin,Male,55,San Antonio,Central,2013-10-31
+CS-12130,Chad Sievert,Male,40,Los Angeles,West,2013-10-03
+JB-15400,Jennifer Braxton,Female,79,Chicago,Central,2013-04-22
+SJ-20500,Shirley Jackson,Male,45,Houston,Central,2012-10-12
+JK-15640,Jim Kriz,Female,43,New York City,East,2014-07-06
+DK-13150,David Kendrick,Female,46,Decatur,Central,2014-07-30
+RM-19675,Robert Marley,Female,42,Monroe,South,2013-12-18
+SK-19990,Sally Knutson,Female,48,Fairfield,East,2016-07-23
+FM-14290,Frank Merwin,Female,41,Los Angeles,West,2014-02-17
+AM-10360,Alice McCarthy,Male,37,Grand Prairie,Central,2014-05-02
+MP-17470,Mark Packer,Male,58,New York City,East,2013-04-12
+MZ-17515,Mary Zewe,Female,39,Redlands,West,2012-04-19
+CB-12025,Cassandra Brandow,Male,44,Hamilton,East,2013-01-30
+VM-21685,Valerie Mitchum,Male,29,Westfield,East,2013-11-25
+FH-14365,Fred Hopkins,Female,31,Philadelphia,East,2013-06-01
+MB-17305,Maria Bertelson,Male,61,Akron,East,2013-01-18
+BS-11755,Bruce Stewart,Female,50,Denver,West,2012-06-03
+LC-17140,Logan Currie,Male,82,Dallas,Central,2013-03-17
+HK-14890,Heather Kirkland,Male,44,Franklin,South,2014-03-22
+LE-16810,Laurel Elliston,Male,38,Whittier,West,2012-09-30
+JH-15985,Joseph Holt,Female,45,Saginaw,Central,2013-09-09
+MS-17980,Michael Stewart,Male,45,Dallas,Central,2014-04-08
+VW-21775,Victoria Wilson,Female,56,Medina,East,2012-09-17
+JH-15910,Jonathan Howell,Male,37,Los Angeles,West,2015-05-09
+JB-15925,Joni Blumstein,Male,38,Dublin,East,2013-11-21
+DS-13180,David Smith,Female,49,Detroit,Central,2012-06-12
+VD-21670,Valerie Dominguez,Female,18,Columbia,South,2012-09-17
+EA-14035,Erin Ashbrook,Male,46,Charlotte,South,2012-12-19
+DB-13120,David Bremer,Female,34,Santa Clara,West,2014-11-26
+KL-16645,Ken Lonsdale,Female,36,Chicago,Central,2012-09-23
+DW-13480,Dianna Wilson,Male,37,Lakeville,Central,2012-08-03
+LH-17155,Logan Haushalter,Male,35,San Francisco,West,2013-03-22
+KC-16540,Kelly Collister,Female,48,San Diego,West,2015-01-30
+DL-13315,Delfina Latchford,Male,65,New York City,East,2013-07-17
+DR-12880,Dan Reichenbach,Male,40,Chicago,Central,2015-01-21
+CC-12670,Craig Carreira,Female,68,New York City,East,2013-12-18
+Dl-13600,Dorris liebe,Male,40,Pasadena,Central,2014-02-06
+SB-20290,Sean Braxton,Male,27,Houston,Central,2013-12-31
+RC-19825,Roy Collins,Male,62,Chicago,Central,2013-08-21
+AH-10210,Alan Hwang,Female,25,Brentwood,West,2013-12-10
+CB-12535,Claudia Bergmann,Female,51,Chapel Hill,South,2014-03-21
+CA-12310,Christine Abelman,Male,45,Cincinnati,East,2014-01-11
+KH-16690,Kristen Hastings,Female,19,San Francisco,West,2013-02-05
+BB-10990,Barry Blumstein,Male,60,Inglewood,West,2012-08-06
+AG-10495,Andrew Gjertsen,Female,58,Philadelphia,East,2014-06-21
+JO-15280,Jas O'Carroll,Female,49,Los Angeles,West,2012-08-23
+AH-10195,Alan Haines,Male,36,Tamarac,South,2014-05-27
+NZ-18565,Nick Zandusky,Male,27,Columbus,East,2014-05-30
+KL-16555,Kelly Lampkin,Male,28,Colorado Springs,West,2012-09-22
+AS-10225,Alan Schoenberger,Male,64,New York City,East,2014-05-27
+CR-12625,Corey Roper,Male,48,Lakewood,East,2012-12-26
+SH-20395,Shahid Hopkins,Female,34,Arlington,South,2013-09-23
+BP-11185,Ben Peterman,Female,35,Arvada,West,2014-01-25
+TS-21205,Thomas Seio,Male,55,Hackensack,East,2013-08-12
+AG-10525,Andy Gerbode,Female,36,Saint Petersburg,South,2014-04-06
+SP-20860,Sung Pak,Male,48,Philadelphia,East,2014-05-10
+NM-18445,Nathan Mautz,Female,53,New York City,East,2013-04-06
+FA-14230,Frank Atkinson,Female,29,Long Beach,West,2013-11-21
+GK-14620,Grace Kelly,Female,18,Hesperia,West,2013-04-25
+DJ-13510,Don Jones,Female,43,Murfreesboro,South,2014-01-23
+PO-18850,Patrick O'Brill,Male,49,Philadelphia,East,2013-09-15
+JL-15850,John Lucas,Male,42,Philadelphia,East,2013-02-02
+DB-13615,Doug Bickford,Female,20,Los Angeles,West,2014-08-07
+AC-10420,Alyssa Crouse,Female,38,San Francisco,West,2013-03-01
+CC-12550,Clay Cheatham,Female,52,San Francisco,West,2017-01-28
+TD-20995,Tamara Dahlen,Female,52,Lowell,East,2013-10-16
+AB-10060,Adam Bellavance,Male,18,New York City,East,2015-01-17
+JL-15505,Jeremy Lonsdale,Female,67,New York City,East,2012-12-27
+VB-21745,Victoria Brennan,Female,55,Columbus,South,2014-10-08
+KW-16435,Katrina Willman,Female,50,New York City,East,2015-02-02
+JD-16060,Julia Dunbar,Female,37,San Francisco,West,2014-03-14
+MK-17905,Michael Kennedy,Male,47,Manchester,East,2013-01-10
+GT-14755,Guy Thornton,Male,59,Harlingen,Central,2013-08-27
+AG-10900,Arthur Gainer,Female,37,Tucson,West,2013-08-27
+MM-18280,Muhammed MacIntyre,Female,34,Quincy,Central,2012-10-03
+AR-10405,Allen Rosenblatt,Male,41,Franklin,East,2014-03-21
+RA-19915,Russell Applegate,Male,40,Houston,Central,2013-10-24
+AS-10285,Alejandro Savely,Female,43,San Francisco,West,2014-07-02
+LA-16780,Laura Armstrong,Female,60,Taylor,Central,2013-04-17
+DO-13435,Denny Ordway,Female,54,Pembroke Pines,South,2014-02-25
+DK-13225,Dean Katz,Male,44,Philadelphia,East,2013-10-19
+NG-18430,Nathan Gelder,Female,33,Cincinnati,East,2013-04-18
+MV-18190,Mike Vittorini,Female,19,New York City,East,2013-10-13
+JG-15115,Jack Garza,Female,51,Des Moines,West,2014-02-01
+BP-11095,Bart Pistole,Female,54,Peoria,Central,2013-02-22
+VP-21730,Victor Preis,Female,30,Las Vegas,West,2014-10-16
+SS-20140,Saphhira Shifley,Male,32,Warwick,East,2013-07-11
+AG-10675,Anna Gayman,Male,63,Houston,Central,2015-03-27
+LF-17185,Luke Foster,Female,42,Miami,South,2013-05-15
+RF-19840,Roy Französisch,Female,36,New York City,East,2014-10-06
+KH-16510,Keith Herrera,Male,28,San Francisco,West,2013-09-04
+KC-16675,Kimberly Carter,Female,64,Seattle,West,2014-05-20
+CJ-12010,Caroline Jumper,Male,26,Huntington Beach,West,2014-09-26
+PB-19150,Philip Brown,Male,33,Los Angeles,West,2013-11-26
+MP-17965,Michael Paige,Male,51,Lawrence,East,2013-09-08
+NF-18385,Natalie Fritzler,Male,56,Jackson,South,2012-12-19
+SD-20485,Shirley Daniels,Female,53,New Rochelle,East,2012-10-04
+KH-16630,Ken Heidel,Male,63,San Antonio,Central,2014-02-03
+RB-19795,Ross Baird,Female,39,Gastonia,South,2013-04-26
+MK-18160,Mike Kennedy,Female,28,Jacksonville,South,2014-04-10
+PO-19180,Philisse Overcash,Female,61,Chicago,Central,2014-12-08
+BB-11545,Brenda Bowman,Female,35,Houston,Central,2013-06-17
+TB-21595,Troy Blackwell,Female,18,Columbus,Central,2012-12-31
+RB-19360,Raymond Buch,Male,32,Auburn,East,2014-10-02
+EB-13705,Ed Braxton,Female,65,Akron,East,2013-03-29
+SC-20095,Sanjit Chand,Female,46,Concord,West,2012-06-28
+TN-21040,Tanja Norvell,Female,38,Phoenix,West,2014-06-25
+JS-15940,Joni Sundaresam,Male,52,Park Ridge,Central,2014-04-03
+MH-17785,Maya Herman,Female,26,Lindenhurst,East,2012-12-26
+JP-15520,Jeremy Pistek,Female,50,San Francisco,West,2013-08-10
+JE-15475,Jeremy Ellison,Male,43,Troy,East,2013-12-04
+JG-15805,John Grady,Female,38,New York City,East,2013-05-05
+XP-21865,Xylona Preis,Female,70,San Diego,West,2012-11-16
+EM-14065,Erin Mull,Male,66,New York City,East,2013-08-24
+MT-18070,Michelle Tran,Female,62,Los Angeles,West,2013-01-26
+SA-20830,Sue Ann Reed,Female,38,Chicago,Central,2013-10-13
+CW-11905,Carl Weiss,Male,21,Huntsville,Central,2013-03-02
+AJ-10960,Astrea Jones,Female,62,Rochester,East,2013-10-12
+SS-20590,Sonia Sunley,Female,55,Seattle,West,2013-01-11
+RO-19780,Rose O'Brian,Female,42,Memphis,South,2013-09-27
+MD-17350,Maribeth Dona,Female,41,Fayetteville,South,2013-09-01
+MY-17380,Maribeth Yedwab,Male,62,Parker,West,2014-05-07
+CM-12385,Christopher Martinez,Male,45,Atlanta,South,2013-11-22
+LS-17245,Lynn Smith,Male,37,Gladstone,Central,2014-08-05
+BN-11515,Bradley Nguyen,Male,48,Los Angeles,West,2013-02-21
+DB-13210,Dean Braden,Female,31,Houston,Central,2014-05-16
+MC-17605,Matt Connell,Female,70,Detroit,Central,2013-12-19
+BD-11605,Brian Dahlen,Male,39,Lawrence,East,2012-11-07
+PH-18790,Patricia Hirasaki,Female,37,Lakeland,South,2015-11-10
+MG-18145,Mike Gockenbach,Male,57,Philadelphia,East,2013-01-19
+KB-16240,Karen Bern,Female,65,Los Angeles,West,2012-09-24
+JC-15340,Jasper Cacioppo,Male,74,Los Angeles,West,2012-07-02
+RL-19615,Rob Lucas,Male,28,Montgomery,South,2014-03-02
+AA-10375,Allen Armold,Male,28,Mesa,West,2013-08-21
+EP-13915,Emily Phan,Female,55,Chicago,Central,2012-09-20
+DK-12985,Darren Koutras,Female,35,Henderson,South,2012-12-03
+BD-11500,Bradley Drucker,Male,40,Green Bay,Central,2012-09-16
+LM-17065,Liz MacKendrick,Female,18,Springfield,East,2014-03-12
+AS-10135,Adrian Shami,Male,55,New York City,East,2015-01-31
+BD-11320,Bill Donatelli,Female,31,San Francisco,West,2014-05-04
+GT-14710,Greg Tran,Female,42,Houston,Central,2014-04-09
+AJ-10945,Ashley Jarboe,Female,31,Wilmington,South,2013-07-25
+OT-18730,Olvera Toch,Male,41,Los Angeles,West,2014-06-22
+LP-17080,Liz Pelletier,Male,43,San Francisco,West,2013-02-06
+CA-12775,Cynthia Arntzen,Female,23,Tampa,South,2012-12-21
+JF-15490,Jeremy Farry,Female,46,Seattle,West,2013-02-17
+FP-14320,Frank Preis,Male,40,Los Angeles,West,2014-03-25
+EB-13840,Ellis Ballard,Female,72,Seattle,West,2014-03-28
+JF-15415,Jennifer Ferguson,Female,71,New York City,East,2012-10-01
+SF-20200,Sarah Foster,Female,62,Marysville,West,2013-05-19
+TG-21640,Trudy Glocke,Male,62,Long Beach,West,2012-12-14
+CS-11950,Carlos Soltero,Male,26,Chicago,Central,2013-04-28
+CC-12145,Charles Crestani,Male,35,Los Angeles,West,2013-04-01
+DV-13465,Dianna Vittorini,Male,37,Denver,West,2012-09-24
+BD-11725,Bruce Degenhardt,Male,54,Richmond,South,2013-08-27
+ZC-21910,Zuschuss Carroll,Female,45,Salem,West,2013-01-16
+MS-17830,Melanie Seite,Male,50,Laredo,Central,2012-11-14
+LR-16915,Lena Radford,Male,46,San Diego,West,2014-01-18
+TP-21130,Theone Pippenger,Female,36,Philadelphia,East,2014-08-03
+CK-12205,Chloris Kastensmidt,Female,30,Philadelphia,East,2013-09-23
+AS-10240,Alan Shonely,Male,24,Tampa,South,2013-09-28
+AR-10510,Andrew Roberts,Female,54,Philadelphia,East,2013-07-18
+NB-18655,Nona Balk,Male,32,Dallas,Central,2013-01-25
+GD-14590,Giulietta Dortch,Female,39,Philadelphia,East,2014-03-24
+CK-12595,Clytie Kelty,Female,75,Grove City,East,2013-10-04
+NG-18355,Nat Gilpin,Male,36,New York City,East,2013-03-24
+CA-12265,Christina Anderson,Female,46,Chicago,Central,2012-07-16
+SF-20965,Sylvia Foulston,Male,45,Dearborn,Central,2013-04-27
+MO-17800,Meg O'Connel,Female,59,New York City,East,2015-01-02
+AT-10735,Annie Thurman,Male,47,Seattle,West,2013-10-14
+FM-14380,Fred McMath,Male,51,Aurora,West,2014-04-29
+DJ-13420,Denny Joy,Female,57,Warner Robins,South,2013-03-18
+ME-17725,Max Engle,Female,59,Aurora,West,2013-08-22
+JD-16150,Justin Deggeller,Female,38,Minneapolis,Central,2012-11-26
+JL-15835,John Lee,Female,18,Mission Viejo,West,2012-05-24
+SC-20305,Sean Christensen,Male,63,Rochester Hills,Central,2013-07-02
+CC-12430,Chuck Clark,Female,18,Columbus,Central,2014-01-06
+AR-10825,Anthony Rawles,Female,62,Vancouver,West,2012-11-24
+SR-20740,Steven Roelle,Male,50,New York City,East,2012-10-01
+CR-12730,Craig Reiter,Female,60,Columbus,East,2013-05-28
+EH-14125,Eugene Hildebrand,Female,54,Aurora,Central,2013-08-05
+SP-20545,Sibella Parks,Female,57,New York City,East,2014-01-03
+TH-21235,Tiffany House,Male,43,Dallas,Central,2014-06-10
+RP-19390,Resi Pölking,Female,67,Cleveland,East,2013-11-17
+RB-19570,Rob Beeghly,Male,73,Columbus,Central,2016-03-15
+CD-11980,Carol Darley,Female,31,Tyler,Central,2016-05-22
+DJ-13630,Doug Jacobs,Female,18,New York City,East,2013-12-30
+GT-14635,Grant Thornton,Female,38,Burlington,South,2014-02-02
+MC-17845,Michael Chen,Female,66,Jackson,South,2013-08-27
+RA-19285,Ralph Arnett,Male,50,New York City,East,2014-11-03
+NP-18325,Naresj Patel,Female,28,Waynesboro,South,2014-03-22
+AB-10165,Alan Barnes,Male,35,Los Angeles,West,2013-12-20
+JO-15550,Jesus Ocampo,Female,40,Chester,East,2013-06-12
+JK-15370,Jay Kimmel,Female,38,Long Beach,West,2012-12-08
+BN-11470,Brad Norvell,Male,36,Cary,South,2014-06-24
+DP-13165,David Philippe,Female,60,New York City,East,2014-01-11
+TH-21550,Tracy Hopkins,Female,35,New York City,East,2013-01-11
+AP-10915,Arthur Prichep,Male,37,Palm Coast,South,2014-07-24
+RS-19765,Roland Schwarz,Female,77,Mount Vernon,East,2012-05-17
+SV-20365,Seth Vernon,Male,50,Dover,East,2013-02-07
+CK-12325,Christine Kargatis,Male,30,Orem,West,2012-08-25
+RD-19810,Ross DeVincentis,Female,22,Los Angeles,West,2013-09-07
+MR-17545,Mathew Reese,Male,54,Philadelphia,East,2012-11-03
+SC-20695,Steve Chapman,Male,43,Hialeah,South,2014-05-22
+JF-15355,Jay Fein,Male,28,Austin,Central,2014-05-11
+EG-13900,Emily Grady,Female,47,Oceanside,East,2015-04-26
+DS-13030,Darrin Sayre,Male,68,Seattle,West,2014-01-05
+PO-19195,Phillina Ober,Male,58,Naperville,Central,2013-10-18
+SS-20875,Sung Shariari,Male,33,Dallas,Central,2013-11-20
+PB-19105,Peter Bühler,Female,41,Evanston,Central,2014-05-29
+RF-19735,Roland Fjeld,Male,61,Trenton,Central,2013-08-24
+YC-21895,Yoseph Carroll,Male,39,San Francisco,West,2014-01-07
+DC-13285,Debra Catini,Female,58,Cottage Grove,Central,2014-11-11
+CP-12340,Christine Phan,Male,38,New York City,East,2012-07-06
+BF-11020,Barry Französisch,Female,75,Green Bay,Central,2013-09-26
+LH-17020,Lisa Hazard,Female,69,Columbus,East,2014-04-18
+CS-12250,Chris Selesnick,Male,39,Bossier City,South,2013-03-26
+AJ-10795,Anthony Johnson,Female,47,Saint Petersburg,South,2012-07-11
+BV-11245,Benjamin Venier,Male,54,Des Moines,Central,2014-02-10
+DL-12865,Dan Lawera,Female,26,Cincinnati,East,2014-04-06
+BM-11785,Bryan Mills,Male,56,Columbus,East,2013-06-29
+LT-17110,Liz Thompson,Male,60,Lancaster,West,2013-02-14
+JK-15730,Joe Kamberova,Female,21,Asheville,South,2014-03-05
+ES-14020,Erica Smith,Male,57,San Francisco,West,2012-12-21
+RH-19495,Rick Hansen,Female,55,Rochester,Central,2014-04-28
+CD-11920,Carlos Daly,Female,52,Lake Elsinore,West,2013-10-26
+HW-14935,Helen Wasserman,Female,40,San Diego,West,2015-08-22
+MC-18130,Mike Caudle,Female,30,Monroe,South,2012-10-17
+GM-14440,Gary McGarr,Male,22,San Francisco,West,2012-09-24
+PJ-19015,Pauline Johnson,Female,66,Santa Ana,West,2012-10-02
+BW-11110,Bart Watters,Male,61,Milwaukee,Central,2014-01-19
+TR-21325,Toby Ritter,Female,21,Belleville,East,2014-02-19
+PG-18820,Patrick Gardner,Female,21,San Francisco,West,2012-11-26
+JL-15175,James Lanier,Female,36,Columbia,South,2013-12-03
+BM-11650,Brian Moss,Male,43,New York City,East,2014-02-02
+EM-14095,Eudokia Martin,Male,58,Los Angeles,West,2015-03-16
+AF-10885,Art Foster,Female,55,Louisville,South,2013-07-04
+GA-14725,Guy Armstrong,Male,57,Lorain,East,2013-04-10
+CK-12760,Cyma Kinney,Female,44,Linden,East,2013-09-22
+DP-13105,Dave Poirier,Female,48,Salinas,West,2015-05-10
+BK-11260,Berenike Kampe,Female,61,New York City,East,2014-05-25
+SJ-20125,Sanjit Jacobs,Male,45,New Brunswick,East,2015-08-07
+CM-12445,Chuck Magee,Male,67,San Francisco,West,2012-08-20
+AJ-10780,Anthony Jacobs,Male,43,Springfield,South,2013-11-15
+LS-16945,Linda Southworth,Female,65,Philadelphia,East,2013-12-27
+GP-14740,Guy Phonely,Female,64,Lancaster,East,2013-01-31
+PK-18910,Paul Knutson,Male,48,Philadelphia,East,2012-08-07
+SM-20005,Sally Matthias,Male,18,New York City,East,2013-10-27
+AG-10765,Anthony Garverick,Male,45,Philadelphia,East,2014-07-21
+PM-19135,Peter McVee,Male,41,Detroit,Central,2015-01-28
+LL-16840,Lauren Leatherbury,Male,46,Rochester,East,2013-08-16
+JS-15595,Jill Stevenson,Female,49,Los Angeles,West,2013-12-09
+EL-13735,Ed Ludwig,Female,45,Columbia,East,2015-06-09
+PC-18745,Pamela Coakley,Male,46,San Francisco,West,2014-07-07
+HL-15040,Hunter Lopez,Male,47,Houston,Central,2012-08-02
+MS-17365,Maribeth Schnelling,Female,47,Detroit,Central,2013-04-16
+GB-14530,George Bell,Female,18,Auburn,East,2013-06-07
+JR-16210,Justin Ritter,Female,39,Springfield,East,2015-01-15
+BE-11335,Bill Eplett,Female,31,Jackson,Central,2015-08-08
+SC-20050,Sample Company A,Male,73,Norwich,East,2013-11-01
+RW-19630,Rob Williams,Female,52,Dallas,Central,2013-08-28
+SE-20110,Sanjit Engle,Male,23,New York City,East,2014-02-24
+AH-10075,Adam Hart,Female,26,New York City,East,2013-12-04
+JM-15535,Jessica Myrick,Female,41,Philadelphia,East,2012-12-31
+JJ-15760,Joel Jenkins,Female,54,Springfield,South,2014-05-09
+RK-19300,Ralph Kennedy,Female,52,Philadelphia,East,2014-12-03
+CG-12040,Catherine Glotzbach,Male,24,Philadelphia,East,2013-12-30
+RP-19270,Rachel Payne,Female,43,Riverside,West,2014-08-04
+KC-16255,Karen Carlisle,Female,45,San Francisco,West,2013-07-05
+KH-16360,Katherine Hughes,Male,37,Philadelphia,East,2014-01-04
+GH-14665,Greg Hansen,Female,49,Round Rock,Central,2014-06-08
+SW-20275,Scott Williamson,Male,41,Jackson,South,2012-10-20
+JA-15970,Joseph Airdo,Male,44,Phoenix,West,2013-07-13
+DL-12925,Daniel Lacy,Female,44,Oceanside,West,2012-12-04
+LW-16990,Lindsay Williams,Male,25,San Francisco,West,2015-10-01
+TB-21190,Thomas Brumley,Male,50,Fayetteville,South,2014-07-20
+BS-11800,Bryan Spruell,Female,60,New York City,East,2014-08-29
+RW-19690,Robert Waldorf,Female,32,Wilmington,South,2014-12-21
+TZ-21580,Tracy Zic,Female,59,Louisville,West,2014-05-05
+AS-10630,Ann Steele,Female,54,Pasadena,Central,2013-05-03
+TS-21340,Toby Swindell,Female,29,Houston,Central,2012-06-23
+SL-20155,Sara Luxemburg,Male,18,Jacksonville,South,2014-04-04
+MW-18235,Mitch Willingham,Male,77,Virginia Beach,South,2013-08-26
+RD-19585,Rob Dowd,Male,35,Henderson,South,2013-03-10
+RA-19945,Ryan Akin,Female,19,Murrieta,West,2013-09-10
+MT-17815,Meg Tillman,Female,40,Scottsdale,West,2014-12-19
+VG-21790,Vivek Gonzalez,Male,18,San Diego,West,2013-07-31
+JS-15880,John Stevenson,Male,28,Seattle,West,2013-09-04
+KM-16225,Kalyca Meade,Female,56,New York City,East,2014-08-09
+HR-14770,Hallie Redmond,Female,41,Los Angeles,West,2013-11-30
+DE-13255,Deanra Eno,Female,59,Springfield,East,2013-03-18
+AG-10390,Allen Goldenen,Male,65,Cincinnati,East,2013-12-04
+JJ-15445,Jennifer Jackson,Female,37,Los Angeles,West,2013-09-16
+JH-15430,Jennifer Halladay,Female,36,Burlington,South,2013-05-12
+RD-19660,Robert Dilbeck,Female,50,Saint Peters,Central,2013-04-24
+MO-17500,Mary O'Rourke,Female,59,New York City,East,2013-05-27
+NS-18640,Noel Staavos,Female,62,Chicago,Central,2014-03-26
+DG-13300,Deirdre Greer,Female,36,Philadelphia,East,2014-09-30
+NF-18595,Nicole Fjeld,Female,34,New York City,East,2013-12-22
+MG-17650,Matthew Grinstein,Female,34,Philadelphia,East,2013-07-19
+TS-21160,Theresa Swint,Male,39,Toledo,East,2012-09-30
+BD-11620,Brian DeCherney,Female,51,San Francisco,West,2013-07-04
+CM-12160,Charles McCrossin,Male,50,Brownsville,Central,2015-08-24
+SN-20560,Skye Norling,Male,41,Los Angeles,West,2015-01-16
+EH-14005,Erica Hernandez,Male,55,Denver,West,2012-08-20
+FO-14305,Frank Olsen,Female,31,New York City,East,2014-04-04
+MS-17710,Maurice Satty,Male,37,Mesa,West,2012-07-10
+CC-12100,Chad Cunningham,Male,46,Columbus,Central,2014-01-20
+DW-13540,Don Weiss,Male,59,Seattle,West,2014-07-10
+BT-11395,Bill Tyler,Female,48,Detroit,Central,2014-08-20
+CY-12745,Craig Yedwab,Female,51,Oakland,West,2014-06-19
+BT-11485,Brad Thomas,Female,39,Clinton,East,2015-08-28
+PS-19045,Penelope Sewall,Female,49,Charlotte,South,2013-11-23
+PV-18985,Paul Van Hugh,Male,53,San Francisco,West,2012-07-20
+NM-18520,Neoma Murray,Female,61,Riverside,West,2015-08-03
+DL-13495,Dionis Lloyd,Female,52,San Francisco,West,2014-05-18
+CS-12355,Christine Sundaresam,Female,39,Roswell,South,2012-09-15
+FH-14275,Frank Hawley,Female,33,La Porte,Central,2013-12-16
+NC-18340,Nat Carroll,Female,44,Lansing,Central,2013-05-10
+AA-10315,Alex Avila,Male,60,Minneapolis,Central,2012-09-23
+LT-16765,Larry Tron,Female,44,Escondido,West,2013-12-23
+AP-10720,Anne Pryor,Male,45,New York City,East,2012-11-11
+PM-18940,Paul MacIntyre,Female,39,Jackson,Central,2013-02-15
+AT-10435,Alyssa Tate,Male,46,Los Angeles,West,2014-03-07
+CA-12055,Cathy Armstrong,Female,59,Houston,Central,2014-12-28
+HR-14830,Harold Ryan,Female,25,Seattle,West,2014-01-21
+BT-11530,Bradley Talbott,Female,38,Los Angeles,West,2013-10-12
+LH-16750,Larry Hughes,Female,46,Charlotte,South,2013-07-18
+SW-20755,Steven Ward,Female,59,New York City,East,2014-03-08
+SP-20620,Stefania Perrino,Female,24,Philadelphia,East,2012-09-22
+BF-11170,Ben Ferrer,Female,36,Los Angeles,West,2013-02-27
+KT-16480,Kean Thornton,Male,48,Buffalo,East,2014-01-11
+BG-11695,Brooke Gillingham,Male,42,Cincinnati,East,2013-01-08
+GM-14680,Greg Matthias,Female,18,Seattle,West,2012-10-20
+EJ-14155,Eva Jacobs,Male,52,Gulfport,South,2013-10-26
+NP-18700,Nora Preis,Male,43,Fresno,West,2014-06-29
+MH-18115,Mick Hernandez,Female,36,Chester,East,2016-03-17
+JR-15700,Jocasta Rupert,Female,55,Jacksonville,South,2017-07-02
+SM-20950,Suzanne McNair,Female,41,Greenville,South,2014-08-10
+CC-12220,Chris Cortes,Female,29,La Porte,Central,2014-05-19
+PF-19225,Phillip Flathmann,Male,55,San Francisco,West,2014-12-18
+DC-12850,Dan Campbell,Female,41,Florence,South,2013-12-25
+BD-11770,Bryan Davis,Male,27,Houston,Central,2015-05-15
+GM-14500,Gene McClure,Male,62,Providence,East,2013-01-18
+TB-21355,Todd Boyes,Female,47,New York City,East,2015-02-21
+JH-16180,Justin Hirsh,Male,41,Pueblo,West,2015-03-30
+EB-13975,Erica Bern,Female,52,Fairfield,West,2014-01-12
+QJ-19255,Quincy Jones,Female,61,Saint Paul,Central,2013-02-03
+TC-21535,Tracy Collins,Female,42,Arlington,South,2014-03-13
+CS-12460,Chuck Sachs,Female,62,Columbus,South,2016-10-11
+HG-14965,Henry Goldwyn,Male,24,Los Angeles,West,2013-04-08
+LW-16825,Laurel Workman,Male,48,Deltona,South,2013-05-22
+MC-17575,Matt Collins,Male,69,Cincinnati,East,2013-11-30
+LP-17095,Liz Preis,Male,38,Murray,South,2014-09-09
+EB-14170,Evan Bailliet,Female,59,Wilmington,South,2014-05-21
+GZ-14545,George Zrebassa,Female,53,Lawrence,East,2014-01-28
+CP-12085,Cathy Prescott,Female,39,Norwich,East,2013-12-30
+FG-14260,Frank Gastineau,Female,44,San Francisco,West,2012-07-01
+LD-17005,Lisa DeCherney,Female,59,San Francisco,West,2014-01-01
+AB-10255,Alejandro Ballentine,Male,35,Lorain,East,2014-06-21
+MN-17935,Michael Nguyen,Female,37,Dallas,Central,2013-10-07
+JR-15670,Jim Radford,Male,57,Middletown,East,2015-08-27
+JF-15190,Jamie Frazer,Female,36,Los Angeles,West,2013-08-15
+CM-12115,Chad McGuire,Male,51,New York City,East,2014-04-17
+AS-10045,Aaron Smayling,Female,44,Jacksonville,South,2013-06-23
+BP-11290,Beth Paige,Female,35,Evanston,Central,2012-10-14
+ND-18370,Natalie DeCherney,Female,50,Louisville,South,2012-11-27
+LB-16735,Larry Blacks,Male,61,Fort Worth,Central,2016-04-03
+KT-16465,Kean Takahito,Female,61,Los Angeles,West,2013-03-13
+HM-14860,Harry Marie,Male,50,Philadelphia,East,2012-07-22
+AB-10600,Ann Blume,Female,35,Tucson,West,2013-12-23
+SZ-20035,Sam Zeldin,Female,37,Pico Rivera,West,2014-03-15
+MG-17890,Michael Granlund,Female,30,Clinton,East,2013-03-09
+JK-16120,Julie Kriz,Male,37,Aurora,Central,2013-12-20
+PP-18955,Paul Prost,Male,66,Smyrna,South,2012-10-04
+YS-21880,Yana Sorensen,Male,49,Burlington,South,2014-02-05
+KM-16375,Katherine Murray,Female,29,Salem,South,2014-05-17
+AB-10105,Adrian Barton,Male,51,Phoenix,West,2014-04-28
+HA-14905,Helen Abelman,Male,58,New York City,East,2013-12-24
+BT-11305,Beth Thompson,Male,42,Costa Mesa,West,2014-03-03
+SV-20815,Stuart Van,Male,28,Houston,Central,2013-10-20
+RW-19540,Rick Wilson,Female,24,Mesa,West,2013-06-22
+DK-12835,Damala Kotsonis,Female,23,Salinas,West,2013-10-31
+ST-20530,Shui Tom,Male,70,Parma,East,2012-06-17
+MM-17920,Michael Moore,Female,51,San Francisco,West,2012-12-09
+PW-19030,Pauline Webber,Male,58,Richmond,South,2012-07-19
+SC-20440,Shaun Chance,Male,63,Aurora,West,2014-02-14
+TS-21085,Thais Sissman,Male,61,Phoenix,West,2014-02-27
+MC-17425,Mark Cousins,Male,48,Mobile,South,2012-10-25
+ME-17320,Maria Etezadi,Male,40,Columbus,South,2012-11-22
+NH-18610,Nicole Hansen,Male,18,Irving,Central,2013-09-24
+MB-18085,Mick Brown,Male,47,Vineland,East,2013-07-15
+KD-16495,Keith Dawkins,Male,27,New York City,East,2013-07-02
+KN-16390,Katherine Nockton,Female,59,Los Angeles,West,2012-12-27
+NP-18685,Nora Pelletier,Female,23,Niagara Falls,East,2012-05-17
+CS-12505,Cindy Stewart,Male,40,Thomasville,South,2012-06-30
+MS-17770,Maxwell Schwartz,Male,40,New York City,East,2013-09-02
+CM-12655,Corinna Mitchell,Female,60,Los Angeles,West,2013-09-23
+Co-12640,Corey-Lock,Male,27,Philadelphia,East,2014-02-04
+TS-21370,Todd Sumrall,Female,24,New York City,East,2014-03-09
+JW-15220,Jane Waco,Male,48,Vancouver,West,2014-10-27
+JD-15790,John Dryer,Female,49,Coppell,Central,2013-06-22
+PC-19000,Pauline Chand,Female,39,Los Angeles,West,2013-06-01
+AR-10540,Andy Reiter,Male,38,New York City,East,2014-06-30
+AI-10855,Arianne Irving,Male,46,Philadelphia,East,2014-03-18
+TB-21400,Tom Boeckenhauer,Male,32,Seattle,West,2012-01-30
+PL-18925,Paul Lucas,Male,23,Chicago,Central,2013-08-02
+GH-14425,Gary Hwang,Male,50,Tucson,West,2013-03-17
+MP-18175,Mike Pelletier,Female,34,Laguna Niguel,West,2013-03-23
+JM-15655,Jim Mitchum,Male,50,Bridgeton,East,2012-05-10
+CL-11890,Carl Ludwig,Male,41,Everett,East,2013-12-16
+DB-13270,Deborah Brumfield,Female,46,San Diego,West,2013-03-01
+IG-15085,Ivan Gibson,Female,42,San Diego,West,2014-04-27
+BO-11425,Bobby Odegard,Female,43,Richmond,South,2014-10-13
+AB-10150,Aimee Bixby,Female,58,Long Beach,East,2013-09-10
+JW-16075,Julia West,Female,59,Philadelphia,East,2013-05-07
+EB-13750,Edward Becker,Male,33,Seattle,West,2014-07-06
+SG-20470,Sheri Gordon,Male,47,New York City,East,2012-11-29
+CM-12190,Charlotte Melton,Female,57,Philadelphia,East,2014-01-12
+AW-10840,Anthony Witt,Male,40,Allen,Central,2014-10-07
+MC-18100,Mick Crebagga,Female,40,El Paso,Central,2013-01-11
+TT-21460,Tonja Turnell,Female,56,Aurora,Central,2015-10-21
+VG-21805,Vivek Grady,Female,53,Virginia Beach,South,2013-08-24
+MY-18295,Muhammed Yedwab,Female,52,Grapevine,Central,2013-04-20
+RD-19480,Rick Duston,Male,26,Olympia,West,2014-03-06
+DP-13390,Dennis Pardue,Male,59,Peoria,Central,2014-01-14
+ML-17395,Marina Lichtenstein,Female,31,Los Angeles,West,2013-03-17
+JC-15385,Jenna Caffey,Female,18,Kent,West,2016-08-22
+JG-15160,James Galang,Male,46,Los Angeles,West,2012-08-17
+MC-17275,Marc Crier,Female,34,Lafayette,South,2014-08-07
+NW-18400,Natalie Webber,Female,22,Tigard,West,2014-04-10
+TB-21280,Toby Braunhardt,Female,46,Washington,East,2013-07-01
+BS-11380,Bill Stewart,Female,46,Skokie,Central,2014-10-10
+HH-15010,Hilary Holden,Male,67,San Francisco,West,2013-08-29
+CD-12280,Christina DeMoss,Female,40,Seattle,West,2017-08-17
+TH-21100,Thea Hendricks,Male,49,Los Angeles,West,2014-04-10
+MM-18055,Michelle Moray,Female,34,Seattle,West,2013-03-05
+NS-18505,Neola Schneider,Male,40,Dallas,Central,2015-05-06
+RB-19645,Robert Barroso,Female,75,North Las Vegas,West,2014-04-10
+SW-20455,Shaun Weien,Female,56,Suffolk,South,2013-08-04
+EB-13930,Eric Barreto,Male,30,San Francisco,West,2013-09-18
+PS-18760,Pamela Stobb,Male,44,Los Angeles,West,2013-12-09
+HF-14995,Herbert Flentye,Female,46,Indianapolis,Central,2013-07-03
+HZ-14950,Henia Zydlo,Female,31,Columbus,East,2015-11-22
+CD-12790,Cynthia Delaney,Female,62,San Diego,West,2012-12-15
+JK-15205,Jamie Kunitz,Male,43,San Francisco,West,2012-07-27
+FM-14215,Filia McAdams,Female,45,Dublin,East,2013-10-15
+ED-13885,Emily Ducich,Female,51,San Diego,West,2013-10-07
+DA-13450,Dianna Arnett,Female,34,Houston,Central,2014-03-17
+JW-15955,Joni Wasserman,Male,35,Oakland,West,2013-10-23
+RM-19375,Raymond Messe,Female,40,Houston,Central,2013-11-09
+ML-17755,Max Ludwig,Male,53,Suffolk,South,2014-12-04
+CC-12685,Craig Carroll,Male,40,Greensboro,South,2013-08-03
+JE-15610,Jim Epp,Female,60,Milwaukee,Central,2012-11-08
+RP-19855,Roy Phan,Male,29,Kenosha,Central,2012-08-23
+TB-21175,Thomas Boland,Female,40,Houston,Central,2014-03-28
+BE-11455,Brad Eason,Male,26,Olathe,Central,2013-09-17
+JF-15565,Jill Fjeld,Male,45,Dallas,Central,2013-06-14
+PB-19210,Phillip Breyer,Female,36,Tulsa,Central,2013-06-03
+BT-11680,Brian Thompson,Male,26,Newark,East,2013-12-14
+JL-15235,Janet Lee,Male,33,Chicago,Central,2013-04-17
+CH-12070,Cathy Hwang,Male,65,Raleigh,South,2014-02-22
+ND-18460,Neil Ducich,Female,51,Macon,South,2013-07-25
+BF-10975,Barbara Fisher,Female,65,Charlotte,South,2012-10-02
+KH-16330,Katharine Harms,Male,36,Bowling Green,South,2013-12-23
+GW-14605,Giulietta Weimer,Male,30,Seattle,West,2012-07-19
+NC-18625,Noah Childs,Female,37,Aurora,West,2014-04-23
+ME-18010,Michelle Ellison,Female,46,San Francisco,West,2014-01-24
+BP-11230,Benjamin Patterson,Male,65,Spokane,West,2013-03-06
+JC-15775,John Castell,Male,55,San Antonio,Central,2013-09-08
+AS-10090,Adam Shillingsburg,Female,65,Charlottesville,South,2014-04-30
+AC-10450,Amy Cox,Male,49,Minneapolis,Central,2013-07-17
+MD-17860,Michael Dominguez,Female,51,Indianapolis,Central,2013-12-27
+DB-13660,Duane Benoit,Female,32,Oceanside,East,2013-02-27
+EH-13990,Erica Hackney,Male,18,Roswell,South,2013-03-13
+EH-13765,Edward Hooks,Male,37,Watertown,East,2013-11-30
+SC-20230,Scot Coram,Male,55,Arlington,Central,2015-06-22
+JE-15715,Joe Elijah,Female,53,Broomfield,West,2014-02-28
+AC-10615,Ann Chong,Male,54,New York City,East,2015-03-09
+JD-16015,Joy Daniels,Female,35,Chicago,Central,2013-06-02
+CB-12415,Christy Brittain,Female,30,Columbus,East,2014-03-08
+JS-16030,Joy Smith,Male,32,Houston,Central,2012-11-06
+LW-17215,Luke Weiss,Male,29,Pasadena,West,2014-01-30
+SC-20800,Stuart Calhoun,Female,18,Houston,Central,2015-02-23
+AM-10705,Anne McFarland,Female,47,Auburn,South,2014-06-23
+RH-19510,Rick Huthwaite,Male,43,Providence,East,2014-10-06
+CT-11995,Carol Triggs,Female,38,Rochester,Central,2013-09-04
+MC-17590,Matt Collister,Female,59,Perth Amboy,East,2013-01-14
+CC-12610,Corey Catlett,Female,35,Philadelphia,East,2014-05-17
+KA-16525,Kelly Andreada,Male,56,Ontario,West,2012-04-06
+TC-20980,Tamara Chand,Male,30,Seattle,West,2014-01-16
+BF-11080,Bart Folk,Female,61,Baltimore,East,2014-02-19
+MM-17260,Magdelene Morse,Female,43,Wilmington,East,2014-01-09
+AH-10120,Adrian Hane,Female,54,Tucson,West,2013-10-24
+BW-11200,Ben Wallace,Male,18,Boynton Beach,South,2014-06-19
+SW-20245,Scot Wooten,Female,44,Stockton,West,2013-02-24
+BS-11665,Brian Stugart,Male,44,Philadelphia,East,2014-01-17
+RF-19345,Randy Ferguson,Male,50,Dover,East,2012-07-07
+WB-21850,William Brown,Female,39,Philadelphia,East,2013-07-16
+TB-21625,Trudy Brown,Female,52,Grand Prairie,Central,2014-05-26
+AF-10870,Art Ferguson,Female,31,College Station,Central,2014-06-08
+RB-19435,Richard Bierner,Female,49,Saint Louis,Central,2013-03-02
+KF-16285,Karen Ferguson,Female,45,Manteca,West,2013-05-28
+JH-15820,John Huston,Male,39,Kent,East,2014-01-11
+IL-15100,Ivan Liston,Male,34,San Francisco,West,2013-10-13
+PB-18805,Patrick Bzostek,Female,55,Salt Lake City,West,2014-02-20
+RH-19600,Rob Haberlin,Female,24,Huntsville,South,2014-04-09
+AW-10930,Arthur Wiediger,Female,55,Aurora,Central,2013-10-27
+ML-17410,Maris LaWare,Female,38,Fairfield,East,2013-06-20
+DB-13555,Dorothy Badders,Female,61,Jacksonville,South,2012-10-20
+MH-17620,Matt Hagelstein,Female,26,San Francisco,West,2014-03-18
+DK-13375,Dennis Kane,Female,43,Marion,East,2014-02-07
+BT-11440,Bobby Trafton,Male,38,Littleton,West,2012-09-22
+DB-13405,Denny Blanton,Female,43,La Porte,Central,2014-03-26
+TG-21310,Toby Gnade,Male,24,Los Angeles,West,2014-07-10
+BF-11005,Barry Franz,Female,46,Pasadena,West,2013-04-21
+JM-16195,Justin MacKendrick,Female,31,Los Angeles,West,2012-05-01
+MZ-17335,Maria Zettner,Female,43,San Diego,West,2014-12-06
+MW-18220,Mitch Webber,Male,38,New York City,East,2012-12-10
+MV-17485,Mark Van Huff,Male,51,Arlington,South,2012-10-12
+SM-20320,Sean Miller,Female,50,Monroe,South,2012-06-02
+TP-21415,Tom Prescott,Female,42,Seattle,West,2015-10-13
+JK-15625,Jim Karlsson,Female,41,Seattle,West,2013-09-02
+PJ-18835,Patrick Jones,Male,39,Murfreesboro,South,2013-09-09
+RS-19420,Ricardo Sperren,Male,62,Seattle,West,2013-12-19
+SV-20935,Susan Vittorini,Female,59,New York City,East,2015-12-02
+BC-11125,Becky Castell,Female,57,Peoria,West,2012-11-03
+EM-13825,Elizabeth Moffitt,Female,42,Sioux Falls,Central,2013-09-13
+BM-11575,Brendan Murry,Female,36,New York City,East,2015-01-29
+KN-16705,Kristina Nunn,Male,43,Fort Collins,West,2013-12-20
+KW-16570,Kelly Williams,Female,42,Clarksville,South,2014-08-15
+SC-20260,Scott Cohen,Female,45,San Francisco,West,2013-06-04
+CV-12295,Christina VanderZanden,Male,47,Fresno,West,2012-12-18
+SG-20605,Speros Goranitis,Female,43,New York City,East,2012-11-29
+TM-21010,Tamara Manning,Female,30,San Francisco,West,2013-02-07
+EM-13810,Eleni McCrary,Female,20,Los Angeles,West,2013-12-05
+ML-18040,Michelle Lonsdale,Female,56,Albuquerque,West,2016-04-02
+CR-12580,Clay Rozendal,Male,34,Elmhurst,Central,2014-09-06
+AZ-10750,Annie Zypern,Male,41,New York City,East,2013-07-14
+PW-19240,Pierre Wener,Female,42,Louisville,West,2014-04-13
+SC-20380,Shahid Collister,Female,33,Seattle,West,2012-09-30
+CM-11935,Carlos Meador,Male,39,Fayetteville,South,2013-10-02
+GM-14695,Greg Maxwell,Female,74,Los Angeles,West,2013-07-24
+TB-21250,Tim Brockman,Male,49,New York City,East,2014-02-09
+JM-15865,John Murray,Female,36,Jamestown,East,2014-06-19
+SC-20575,Sonia Cooley,Male,27,Mishawaka,Central,2012-08-30
+LS-17200,Luke Schmidt,Female,37,Skokie,Central,2013-12-05
+RR-19315,Ralph Ritter,Male,39,San Francisco,West,2016-06-25
+DB-12910,Daniel Byrd,Female,55,Tampa,South,2013-01-02
+TT-21220,Thomas Thornton,Female,36,Houston,Central,2014-01-04
+LO-17170,Lori Olson,Female,27,La Quinta,West,2013-04-10
+KD-16615,Ken Dana,Female,51,Scottsdale,West,2014-08-20
+NB-18580,Nicole Brennan,Female,58,Philadelphia,East,2013-09-17
+BD-11635,Brian Derr,Female,33,Bowling Green,South,2013-05-28
+CM-12235,Chris McAfee,Male,36,Carrollton,Central,2014-09-18
+EN-13780,Edward Nazzal,Male,47,New York City,East,2014-03-20
+KN-16450,Kean Nguyen,Female,48,Jacksonville,South,2013-03-26
+BO-11350,Bill Overfelt,Female,66,Los Angeles,West,2014-03-15
+AG-10300,Aleksandra Gannaway,Female,53,Los Angeles,West,2013-03-26
+MC-17635,Matthew Clasen,Female,48,Saint Louis,Central,2014-03-15
+TA-21385,Tom Ashbrook,Male,40,New York City,East,2014-04-07
+JF-15295,Jason Fortune-,Female,43,Seattle,West,2012-09-16
+TT-21265,Tim Taslimi,Female,41,Los Angeles,West,2014-03-13
+SB-20170,Sarah Bern,Female,32,New York City,East,2013-01-20
+CL-12700,Craig Leslie,Female,53,Springfield,Central,2016-01-20
+HG-15025,Hunter Glantz,Male,62,Amarillo,Central,2014-09-02
+NL-18310,Nancy Lomonaco,Female,65,Los Angeles,West,2014-02-10
+RR-19525,Rick Reed,Female,78,Lowell,East,2013-01-22
+TC-21295,Toby Carlisle,Female,54,San Diego,West,2014-07-07
+SV-20785,Stewart Visinsky,Female,58,Pueblo,West,2013-12-03
+BE-11410,Bobby Elias,Male,64,Lancaster,East,2014-07-22
+SC-20680,Steve Carroll,Male,27,Columbus,South,2014-05-22
+DF-13135,David Flashing,Male,65,Vallejo,West,2013-07-27
+FH-14350,Fred Harton,Male,34,Seattle,West,2015-01-18
+MS-17530,MaryBeth Skach,Female,46,San Diego,West,2013-05-08
+RH-19555,Ritsa Hightower,Female,33,Tallahassee,South,2014-06-08
+GA-14515,George Ashbrook,Male,64,San Francisco,West,2012-10-30
+JP-16135,Julie Prescott,Female,70,Columbus,South,2013-01-08
+Dp-13240,Dean percer,Female,31,Murray,West,2012-07-02
+MO-17950,Michael Oakman,Male,49,Dallas,Central,2013-09-08
+DL-13330,Denise Leinenbach,Female,51,Las Cruces,West,2014-05-06
+MH-18025,Michelle Huthwaite,Female,37,Seattle,West,2013-04-03
+DR-12940,Daniel Raglin,Male,48,Franklin,East,2012-11-03
+DM-13015,Darrin Martin,Male,36,Encinitas,West,2012-11-26
+CA-11965,Carol Adams,Female,54,Hoover,South,2013-09-01
+AC-10660,Anna Chung,Female,55,Huntsville,Central,2013-08-11
+DM-13345,Denise Monton,Female,26,Roswell,South,2013-09-01
+VF-21715,Vicky Freymann,Male,43,Columbus,Central,2013-11-14
+CC-12370,Christopher Conant,Female,47,Fayetteville,South,2015-12-08
+BF-11275,Beth Fritzler,Male,26,Tucson,West,2012-06-12
+HG-14845,Harry Greene,Male,37,Lake Charles,South,2012-09-14
+BP-11155,Becky Pak,Female,54,Columbus,South,2014-03-06
+EM-14140,Eugene Moren,Female,36,Glendale,West,2014-05-02
+MA-17995,Michelle Arnett,Female,27,Watertown,East,2014-06-09
+AY-10555,Andy Yotov,Female,55,Oceanside,West,2012-06-08
+GB-14575,Giulietta Baptist,Female,62,Philadelphia,East,2013-08-11
+JB-16045,Julia Barnett,Female,37,Columbus,South,2013-09-12
+MG-17875,Michael Grace,Female,39,New York City,East,2012-04-01
+SR-20425,Sharelle Roach,Male,31,Louisville,West,2013-08-19
+JB-16000,Joy Bell-,Male,31,Brownsville,Central,2014-11-07
+DM-12955,Dario Medina,Female,63,Lincoln Park,Central,2013-02-22
+TC-21475,Tony Chapman,Male,40,Columbus,South,2014-03-10
+SW-20350,Sean Wendt,Male,45,Detroit,Central,2014-10-09
+RE-19450,Richard Eichhorn,Male,29,Dallas,Central,2013-04-01
+BF-11215,Benjamin Farhat,Male,47,Albuquerque,West,2012-12-25
+KB-16405,Katrina Bavinger,Female,45,Apple Valley,West,2014-08-22
+JG-15310,Jason Gross,Female,51,Providence,East,2015-08-22
+EC-14050,Erin Creighton,Female,60,New York City,East,2014-08-28
+EB-14110,Eugene Barchas,Male,33,Philadelphia,East,2014-05-14
+JP-15460,Jennifer Patt,Female,51,Oceanside,East,2013-07-20
+CS-11845,Cari Sayre,Female,23,Seattle,West,2013-09-16
+GH-14410,Gary Hansen,Male,59,Glendale,West,2012-09-19
+PT-19090,Pete Takahito,Male,52,Houston,Central,2013-10-29
+JL-15130,Jack Lebron,Female,38,Houston,Central,2012-11-23
+AH-10030,Aaron Hawkins,Male,57,Philadelphia,East,2013-01-25
+CC-12475,Cindy Chapman,Female,18,New York City,East,2012-11-04
+DW-13195,David Wiener,Female,51,Houston,Central,2012-07-21
+SJ-20215,Sarah Jordon,Female,38,Grand Prairie,Central,2013-08-15
+BG-11740,Bruce Geld,Female,41,Philadelphia,East,2013-10-01
+LB-16795,Laurel Beltran,Male,42,Highland Park,Central,2012-06-26
+CM-11815,Candace McMahon,Female,56,Pasadena,Central,2013-12-26
+EH-14185,Evan Henry,Female,35,Decatur,South,2012-07-12
+TS-21505,Tony Sayre,Female,43,Columbia,South,2014-10-20
+PR-18880,Patrick Ryan,Male,62,Oakland,West,2013-02-21
+LC-17050,Liz Carlisle,Female,54,Mission Viejo,West,2012-03-18
+CS-12490,Cindy Schnelling,Male,54,Conroe,Central,2014-05-15
+DH-13075,Dave Hallsten,Female,37,Richmond,South,2013-10-07
+JO-15145,Jack O'Briant,Male,35,Philadelphia,East,2013-10-11
+AH-10690,Anna Häberlin,Female,67,New York City,East,2013-06-23
+HJ-14875,Heather Jas,Male,70,Jacksonville,South,2015-01-30
+MH-17455,Mark Hamilton,Female,31,Jacksonville,South,2013-04-02
+RD-19930,Russell D'Ascenzo,Male,43,Austin,Central,2013-08-21
+SC-20020,Sam Craven,Male,45,Plano,Central,2012-09-12
+SU-20665,Stephanie Ulpright,Female,25,Jackson,South,2014-07-18
+FC-14335,Fred Chung,Female,31,Mesquite,Central,2013-03-01
+RB-19330,Randy Bradley,Male,29,Philadelphia,East,2014-02-23
+NC-18535,Nick Crebassa,Female,50,Dallas,Central,2013-09-29
+DB-12970,Darren Budd,Male,32,Los Angeles,West,2013-09-22
+MF-17665,Maureen Fritzler,Male,77,Toledo,East,2013-06-29
+RM-19750,Roland Murray,Female,46,New York City,East,2015-03-20
+VM-21835,Vivian Mathis,Male,70,Newark,East,2012-08-26
+EJ-13720,Ed Jacobs,Male,30,San Diego,West,2013-12-13
+NC-18415,Nathan Cano,Female,30,Jacksonville,South,2012-06-03
+LS-17230,Lycoris Saunders,Female,43,Dover,East,2013-03-23
+KE-16420,Katrina Edelman,Female,49,Bristol,South,2013-10-25
+DH-13675,Duane Huffman,Female,33,Quincy,East,2012-09-16
+PF-19120,Peter Fuller,Male,33,Gilbert,West,2012-12-15
+VT-21700,Valerie Takahito,Male,51,Philadelphia,East,2013-01-07
+MG-17695,Maureen Gnade,Female,30,Buffalo,East,2013-10-28
+SP-20920,Susan Pistek,Female,58,Los Angeles,West,2013-07-31
+CS-12175,Charles Sheldon,Female,18,Columbia,South,2013-11-30
+DK-12895,Dana Kaydos,Female,36,Kenosha,Central,2013-06-29
+KM-16660,Khloe Miller,Male,51,Roswell,South,2014-04-19
+AA-10645,Anna Andreadi,Male,33,Chester,East,2012-07-18
+DD-13570,Dorothy Dickinson,Female,38,Houston,Central,2013-03-29
+AH-10465,Amy Hunt,Female,32,New York City,East,2014-03-01
+TP-21565,Tracy Poddar,Female,56,Aurora,West,2013-04-20
+EK-13795,Eileen Kiefer,Female,38,Santa Ana,West,2013-05-04
+CR-12820,Cyra Reiten,Male,28,New York City,East,2014-04-22
+SG-20890,Susan Gilcrest,Female,59,Mcallen,Central,2013-09-26
+AH-10585,Angele Hood,Female,50,Chicago,Central,2014-09-26
+NF-18475,Neil Französisch,Female,30,Rockford,Central,2012-05-14
+BS-11365,Bill Shonely,Female,45,New York City,East,2013-11-13
+SH-20635,Stefanie Holloman,Male,69,Jackson,South,2014-04-04
+RD-19720,Roger Demir,Female,62,Daytona Beach,South,2013-03-18
+AG-10330,Alex Grayson,Male,37,Stockton,West,2015-06-08
+GR-14560,Georgia Rosenberg,Female,28,San Francisco,West,2013-01-13
+VS-21820,Vivek Sundaresam,Female,54,Los Angeles,West,2012-10-28
+TM-21490,Tony Molinari,Male,23,Oklahoma City,Central,2016-10-10
+TS-21430,Tom Stivers,Female,25,Los Angeles,West,2012-12-31
+DB-13360,Dennis Bolton,Male,42,New York City,East,2014-01-13
+NR-18550,Nick Radford,Male,62,Aurora,Central,2013-08-12
+CS-11860,Cari Schnelling,Female,53,Jacksonville,South,2014-01-10
+MF-18250,Monica Federle,Female,38,Los Angeles,West,2013-06-17
+LW-17125,Liz Willingham,Female,57,Norwich,East,2012-11-15
+AR-10345,Alex Russell,Female,70,Lawrence,East,2013-07-11
+KS-16300,Karen Seio,Female,33,Lehi,West,2014-08-17
+AB-10015,Aaron Bergman,Female,71,Seattle,West,2012-03-15
+LR-17035,Lisa Ryan,Female,41,Philadelphia,East,2013-09-23
+SS-20410,Shahid Shariari,Female,39,Los Angeles,West,2014-02-01
+JM-15580,Jill Matthias,Female,52,Monroe,South,2016-01-08
+JK-15325,Jason Klamczynski,Female,63,Dallas,Central,2013-05-27
+DM-13525,Don Miller,Female,55,Houston,Central,2014-01-30
+ML-18265,Muhammed Lee,Female,46,Seattle,West,2015-04-16
+MH-17290,Marc Harrigan,Male,44,Los Angeles,West,2013-05-07
+FC-14245,Frank Carlisle,Male,59,Lakewood,East,2013-06-30
+TH-21115,Thea Hudgings,Male,56,Philadelphia,East,2013-05-02
+JK-16090,Juliana Krohn,Female,50,Omaha,Central,2014-05-26
+SB-20185,Sarah Brown,Female,37,Concord,East,2013-06-10
+BG-11035,Barry Gonzalez,Male,47,Monroe,South,2013-03-27
+BW-11065,Barry Weirich,Male,31,Raleigh,South,2013-03-16
+MG-18205,Mitch Gastineau,Female,37,Jacksonville,South,2015-09-09
+DO-13645,Doug O'Connell,Female,30,Los Angeles,West,2014-07-11
+BP-11050,Barry Pond,Male,54,Cranston,East,2013-08-03
+TS-21655,Trudy Schmidt,Female,41,Milwaukee,Central,2014-01-12
+EM-14200,Evan Minnotte,Female,21,Virginia Beach,South,2015-08-26
+AO-10810,Anthony O'Donnell,Male,45,Los Angeles,West,2015-10-09
+MH-17440,Mark Haberlin,Male,37,New York City,East,2012-12-22
+SS-20515,Shirley Schmidt,Male,25,Louisville,South,2013-04-17
+LD-16855,Lela Donovan,Male,18,Chicago,Central,2015-03-23
+VP-21760,Victoria Pisteka,Male,45,San Francisco,West,2014-06-20
+TC-21145,Theresa Coyne,Male,25,Lakewood,East,2017-02-08
+IM-15055,Ionia McGrath,Female,37,Roseville,West,2013-01-18
+AR-10570,Anemone Ratner,Male,54,Columbus,South,2015-08-02
+CM-12715,Craig Molinari,Male,36,Huntsville,Central,2012-08-26
+FW-14395,Fred Wasserman,Male,55,Huntsville,South,2013-07-30
+LC-16960,Lindsay Castell,Female,43,Arlington,South,2013-09-18
+HE-14800,Harold Engle,Female,57,Chicago,Central,2015-02-02
+BD-11560,Brendan Dodson,Female,39,Fresno,West,2015-04-12
+HD-14785,Harold Dahlen,Male,29,Philadelphia,East,2013-01-11
+CJ-11875,Carl Jackson,Female,54,Philadelphia,East,2016-02-04
+RS-19870,Roy Skaria,Female,28,Burlington,Central,2015-09-02
+SC-20845,Sung Chung,Female,54,Arlington Heights,Central,2014-11-24
+RE-19405,Ricardo Emerson,Female,50,Kent,East,2013-02-10
+SM-20905,Susan MacKendrick,Female,40,Newark,East,2014-07-05

@@ -1,0 +1,13 @@
+Category,Region,Avg Daily Demand,Max Daily Demand,Standard Deviation,Forecasted Monthly Demand,Safety Stock Limit,Reorder Point
+Furniture,Central,6.54,32,5.14,197,415,481
+Furniture,East,7.12,40,6.25,214,529,601
+Furniture,South,9.47,71,8.51,285,971,1066
+Furniture,West,7.34,68,7.08,221,947,1021
+Office Supplies,Central,10.71,67,9.51,322,898,1006
+Office Supplies,East,12.75,83,11.86,383,1118,1246
+Office Supplies,South,14.62,93,14.56,439,1249,1396
+Office Supplies,West,11.65,77,10.45,350,1039,1156
+Technology,Central,6.4,42,6.2,192,567,631
+Technology,East,7.61,40,6.53,229,524,601
+Technology,South,9.65,49,8.47,290,639,736
+Technology,West,6.67,39,5.41,200,519,586

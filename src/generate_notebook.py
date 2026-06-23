@@ -1,0 +1,213 @@
+import json
+import os
+
+def main():
+    notebook = {
+        "cells": [
+            {
+                "cell_type": "markdown",
+                "metadata": {},
+                "source": [
+                    "# Retail Customer Insights & Sales Performance Dashboard\n",
+                    "### Data Analytics & Predictive Machine Learning Capstone Walkthrough\n",
+                    "\n",
+                    "This notebook outlines the end-to-end analytical workflow for the retail operations dashboard, including data ingestion, cleaning, feature engineering, exploratory analysis, customer RFM segmentation, and predictive model training (Sales Forecasting and Churn Classification)."
+                ]
+            },
+            {
+                "cell_type": "markdown",
+                "metadata": {},
+                "source": [
+                    "## Step 1: Library Ingest and Data Import"
+                ]
+            },
+            {
+                "cell_type": "code",
+                "execution_count": None,
+                "metadata": {},
+                "outputs": [],
+                "source": [
+                    "import os\n",
+                    "import pandas as pd\n",
+                    "import numpy as np\n",
+                    "import matplotlib.pyplot as plt\n",
+                    "import seaborn as sns\n",
+                    "\n",
+                    "# Load the master analytical dataset\n",
+                    "df = pd.read_csv('../data/master_dataset.csv')\n",
+                    "print(f\"Master Dataset Dimensions: {df.shape}\")\n",
+                    "df.head()"
+                ]
+            },
+            {
+                "cell_type": "markdown",
+                "metadata": {},
+                "source": [
+                    "## Step 2: Preprocessing and Missing Value Diagnostics"
+                ]
+            },
+            {
+                "cell_type": "code",
+                "execution_count": None,
+                "metadata": {},
+                "outputs": [],
+                "source": [
+                    "# Check for missing values\n",
+                    "missing = df.isnull().sum()\n",
+                    "print(\"Missing values per column:\")\n",
+                    "print(missing[missing > 0])"
+                ]
+            },
+            {
+                "cell_type": "markdown",
+                "metadata": {},
+                "source": [
+                    "## Step 3: Outlier Profiling (IQR Method)"
+                ]
+            },
+            {
+                "cell_type": "code",
+                "execution_count": None,
+                "metadata": {},
+                "outputs": [],
+                "source": [
+                    "def plot_outliers(df, column):\n",
+                    "    plt.figure(figsize=(10, 4))\n",
+                    "    sns.boxplot(x=df[column], palette='Set2')\n",
+                    "    plt.title(f'Outlier Boxplot for {column.capitalize()}')\n",
+                    "    plt.show()\n",
+                    "\n",
+                    "plot_outliers(df, 'sales_amount')\n",
+                    "plot_outliers(df, 'profit')"
+                ]
+            },
+            {
+                "cell_type": "markdown",
+                "metadata": {},
+                "source": [
+                    "## Step 4: Exploratory Analysis (Monthly Sales Trends & Seasonality)"
+                ]
+            },
+            {
+                "cell_type": "code",
+                "execution_count": None,
+                "metadata": {},
+                "outputs": [],
+                "source": [
+                    "df['order_date'] = pd.to_datetime(df['order_date'])\n",
+                    "df_monthly = df.set_index('order_date').resample('ME')['revenue'].sum().reset_index()\n",
+                    "\n",
+                    "plt.figure(figsize=(12, 6))\n",
+                    "sns.lineplot(data=df_monthly, x='order_date', y='revenue', marker='o', color='#1a5276', linewidth=2.5)\n",
+                    "plt.title('Monthly Sales Trend (Gross Revenue)', fontsize=14, fontweight='bold')\n",
+                    "plt.xlabel('Date')\n",
+                    "plt.ylabel('Revenue ($)')\n",
+                    "plt.grid(True)\n",
+                    "plt.show()"
+                ]
+            },
+            {
+                "cell_type": "markdown",
+                "metadata": {},
+                "source": [
+                    "## Step 5: Customer Loyalty RFM Segmentation"
+                ]
+            },
+            {
+                "cell_type": "code",
+                "execution_count": None,
+                "metadata": {},
+                "outputs": [],
+                "source": [
+                    "df_rfm = pd.read_csv('../data/rfm_customer_segments.csv')\n",
+                    "print(\"RFM Segment Counts:\")\n",
+                    "print(df_rfm['rfm_segment'].value_counts())\n",
+                    "\n",
+                    "plt.figure(figsize=(10, 5))\n",
+                    "sns.countplot(data=df_rfm, y='rfm_segment', order=df_rfm['rfm_segment'].value_counts().index, palette='viridis')\n",
+                    "plt.title('Customer Loyalty Segment Distribution (RFM)', fontsize=14, fontweight='bold')\n",
+                    "plt.xlabel('Customer Count')\n",
+                    "plt.ylabel('Loyalty Segment')\n",
+                    "plt.show()"
+                ]
+            },
+            {
+                "cell_type": "markdown",
+                "metadata": {},
+                "source": [
+                    "## Step 6: Machine Learning Models (Customer Churn Classifier)"
+                ]
+            },
+            {
+                "cell_type": "code",
+                "execution_count": None,
+                "metadata": {},
+                "outputs": [],
+                "source": [
+                    "from sklearn.model_selection import train_test_split\n",
+                    "from sklearn.ensemble import RandomForestClassifier\n",
+                    "from sklearn.metrics import classification_report, confusion_matrix, roc_auc_score\n",
+                    "\n",
+                    "# Load the pre-engineered churn prediction features\n",
+                    "df_risk = pd.read_csv('../data/customer_risk_predictions.csv')\n",
+                    "df_risk.head()"
+                ]
+            },
+            {
+                "cell_type": "markdown",
+                "metadata": {},
+                "source": [
+                    "## Step 7: Sales Forecasting & Projections"
+                ]
+            },
+            {
+                "cell_type": "code",
+                "execution_count": None,
+                "metadata": {},
+                "outputs": [],
+                "source": [
+                    "df_forecast = pd.read_csv('../data/sales_future_forecast.csv')\n",
+                    "print(\"12-Month Future Revenue Forecast:\")\n",
+                    "print(df_forecast)"
+                ]
+            },
+            {
+                "cell_type": "markdown",
+                "metadata": {},
+                "source": [
+                    "## Step 8: Safety Stock & Inventory Operations Recommendations"
+                ]
+            },
+            {
+                "cell_type": "code",
+                "execution_count": None,
+                "metadata": {},
+                "outputs": [],
+                "source": [
+                    "df_inventory = pd.read_csv('../data/inventory_recommendations.csv')\n",
+                    "print(\"Inventory Safety Stock limits:\")\n",
+                    "df_inventory.head()"
+                ]
+            }
+        ],
+        "metadata": {
+            "kernelspec": {
+                "display_name": "Python 3",
+                "language": "python",
+                "name": "python3"
+            },
+            "language_info": {
+                "name": "python"
+            }
+        },
+        "nbformat": 4,
+        "nbformat_minor": 2
+    }
+
+    os.makedirs("notebooks", exist_ok=True)
+    with open("notebooks/retail_dashboard_notebook.ipynb", "w", encoding="utf-8") as f:
+        json.dump(notebook, f, indent=2)
+    print("Notebook notebooks/retail_dashboard_notebook.ipynb created successfully!")
+
+if __name__ == "__main__":
+    main()

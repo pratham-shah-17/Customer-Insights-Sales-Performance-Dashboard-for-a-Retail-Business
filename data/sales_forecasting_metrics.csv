@@ -1,0 +1,5 @@
+Model,RMSE,MAE,R2 Score
+Linear Regression,28117.81,20468.49,0.1297
+Random Forest,26679.45,19543.44,0.2164
+XGBoost,31980.26,29213.21,-0.1259
+Naive Seasonal (Regression Fallback),28117.81,20468.49,0.1297
